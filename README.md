@@ -1,5 +1,5 @@
 🚗 Auto MPG Prediction using XGBoost & Streamlit
-App link - 
+App link - https://auto-mpg-prediction-using-xgboost-hszdrpodz7hknynyy9c9xm.streamlit.app/
 
 This project predicts Miles Per Gallon (MPG) for cars using important features such as horsepower, cylinders, displacement, weight, and more.
 It uses:
